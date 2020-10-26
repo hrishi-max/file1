@@ -1,0 +1,7 @@
+Contents: 
+#! /bin/bash
+echo "Your First Name?";
+read a;
+echo "Hi $a, Your Last Name";
+read b;
+echo "Thanks $a, Your full name is $a $b for telling us your name";
